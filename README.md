@@ -31,22 +31,24 @@ Repositório dedicado ao meu aprendizado prático em Python, com foco em fundame
 
 ---
 
-📈 **Status Geral dos Módulos**
+## 📈 Status Geral dos Módulos
 
-Módulo | Aulas | Status | Horas | Progresso
---- | --- | --- | --- | ---
-1. Mais sobre Variáveis | 7 | ✅ Concluído | 40min | 100%
-2. If – Condições em Python | 9 | ✅ Concluído | 1h22min | 100%
-3. Strings – Textos e Importância no Python | 10 | ✅ Concluído | 1h27min | 100%
-4. Listas Python – Métodos e Usos | 14 | ✅ Concluído | 2h00min | 100%
-5. For – Estrutura de Repetição | 12 | ✅ Concluído | 1h31min | 100%
-6. While – Estruturas de Repetição | 4 | ✅ Concluído | 28min | 100%
-7. Tuplas – Estrutura Imutável | 5 | ✅ Concluído | 42min | 100%
-8. Dicionários em Python | 10 | ✅ Concluído | 1h24min | 100%
-9. Iterables | 3 | ✅ Concluído | 23min | 100%
-10. List Comprehension | 8 | ✅ Concluído | 56min31s | 100%
-11. NumPy – Base para Análise de Dados | 13 | ✅ Concluído | ~3h37min | 100%
-12. Pandas – Análise de Dados + Integração Python e Excel | 26 | ✅ Concluído | ~4h20min | 100%
+| Módulo | Aulas | Duração | Status |
+|--------|-------|---------|--------|
+| 1. Mais sobre Variáveis | 7 | 40min | ✅ Concluído |
+| 2. If – Condições em Python | 9 | 1h22min | ✅ Concluído |
+| 3. Strings – Textos e Importância no Python | 10 | 1h27min | ✅ Concluído |
+| 4. Listas Python – Métodos e Usos | 14 | 2h00min | ✅ Concluído |
+| 5. For – Estrutura de Repetição | 12 | 1h31min | ✅ Concluído |
+| 6. While – Estruturas de Repetição | 4 | 28min | ✅ Concluído |
+| 7. Tuplas – Estrutura Imutável | 5 | 42min | ✅ Concluído |
+| 8. Dicionários em Python | 10 | 1h24min | ✅ Concluído |
+| 9. Iterables | 3 | 23min | ✅ Concluído |
+| 10. List Comprehension | 8 | 56min31s | ✅ Concluído |
+| 11. NumPy – Análise de Dados | 13 | ~3h37min | ✅ Concluído |
+| 12. Pandas – Análise de Dados  | 26 | ~4h20min | ✅ Concluído |
+
+
 
 ---
 
