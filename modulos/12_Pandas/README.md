@@ -1,8 +1,8 @@
-## 🐼 Módulo — Pandas  
-✅ Status: CONCLUÍDO  
-📚 Aulas: 26/26  
-⏱ Duração Total: ~4h20min  
-📈 Progresso: 100%
+# 🐼 Módulo 12 — Pandas  
+## ✅ Status: CONCLUÍDO  
+- **Aulas:** 26/26  
+- **Duração Total:** ~4h20min  
+- **Progresso:** 100%
 
 ---
 
