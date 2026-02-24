@@ -1,4 +1,4 @@
-🐍 **Python**  
+# 🐍 **Python**  
 Repositório dedicado ao meu aprendizado prático em Python, com foco em fundamentos da linguagem, lógica de programação, estruturas de controle, estruturas de dados e preparação para aplicações em **análise de dados e engenharia de dados**.
 
 💡 Os estudos foram realizados em conjunto com as aulas do **W3Schools** e cursos práticos focados em dados.
@@ -27,6 +27,8 @@ Repositório dedicado ao meu aprendizado prático em Python, com foco em fundame
 - Manipulação eficiente de arrays com **NumPy**  
 - Análise, limpeza, transformação e agregação de dados com **Pandas**  
 - Integração Python + CSV + Excel  
+- Integração Python + APIs + JSON  
+- Criação de REST APIs com **Flask**  
 - Resolução de exercícios focados em **lógica e análise de dados**
 
 ---
@@ -44,13 +46,12 @@ Repositório dedicado ao meu aprendizado prático em Python, com foco em fundame
 | 7. Tuplas – Estrutura Imutável | 5 | 42min | ✅ Concluído |
 | 8. Dicionários em Python | 10 | 1h24min | ✅ Concluído |
 | 9. Iterables | 3 | 23min | ✅ Concluído |
-| 10. List Comprehension | 8 | 56min31s | ✅ Concluído |
+| 10. List Comprehension | 8 | 56min | ✅ Concluído |
 | 11. NumPy – Análise de Dados | 13 | ~3h37min | ✅ Concluído |
 | 12. Pandas – Análise de Dados  | 26 | ~4h20min | ✅ Concluído |
-
-
+| 13. Integração Python com APIs e JSON | 7 | ~3h37min | ✅ Concluído |
 
 ---
 
-Total: 121 aulas | ~19h50min  
-Progresso geral: 100% concluído 
+Total: 131 aulas | ~23h45min  
+Progresso geral: 100% concluído
