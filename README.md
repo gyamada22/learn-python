@@ -1,8 +1,5 @@
 #  **Python**  
-Repositório dedicado ao meu aprendizado prático em Python, com foco em fundamentos da linguagem, lógica de programação, estruturas de controle, estruturas de dados e preparação para aplicações em **análise de dados e engenharia de dados**.
-
- Os estudos foram realizados em conjunto com as aulas do **W3Schools** e cursos práticos focados em dados.
-
+Repositório dedicado ao meu aprendizado prático em Python
 
 ---
 
