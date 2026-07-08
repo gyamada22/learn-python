@@ -306,8 +306,9 @@ def executar() -> None:
             )
 
             expect(
-                page.get_by_text(
-                    "Dashboard",
+                page.get_by_role(
+                    "heading",
+                    name="Dashboard",
                     exact=True,
                 )
             ).to_be_visible()
