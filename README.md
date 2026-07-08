@@ -6,7 +6,7 @@ Repositório dedicado ao meu aprendizado prático em Python, com foco em fundame
 
 ---
 
-🧠 **Competências Desenvolvidas em Python**
+**Competências Desenvolvidas em Python**
 - Declaração e uso de variáveis e tipos de dados  
 - Conversão e mistura de tipos  
 - Formatação de strings com `format()` e `f-strings`  
