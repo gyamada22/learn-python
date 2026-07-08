@@ -1,4 +1,4 @@
-# Curso de Playwright com Python para Automação de Processos e Dados
+# Playwright com Python
 
 ## Objetivo do curso
 
